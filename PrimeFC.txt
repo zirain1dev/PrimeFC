@@ -1,6 +1,6 @@
 #profile-title: PrimeFC
 #profile-update-interval: 1
-#support-url: https://github.com/Vlesstrogan
+#support-url: https://t.me/Vlesstrogan
 #profile-web-page-url: https://t.me/cvedc_vpn
 #announce: 📜Правила использования VPN📜 ❗❕Не заходить в русские приложения и сайты Например: Max, Яндекс и т.д ❕❗
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
